@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtciceronisquae00clergoog/mtciceronisquae00clergoog_0553.png"; bbox 0 0 3217 4784; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 708 1764 2227 1892">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 708 1764 2227 1892">
+     <span class='ocr_line' id='line_1_1' title="bbox 708 1764 2227 1892; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 708 1773 884 1889; x_wconf 90' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_2' title='bbox 967 1769 1107 1889; x_wconf 89' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1185 1764 2227 1892; x_wconf 86' lang='lat' dir='ltr'>CICERONIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 421 2054 2550 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 421 2054 2550 2406">
+     <span class='ocr_line' id='line_1_2' title="bbox 421 2054 2550 2155; baseline 0 -22"><span class='ocrx_word' id='word_1_4' title='bbox 421 2059 569 2134; x_wconf 75' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 612 2056 1080 2136; x_wconf 85' lang='lat' dir='ltr'>FINIBUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1127 2056 1700 2134; x_wconf 83' lang='lat' dir='ltr'>BONORUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1746 2056 1892 2135; x_wconf 84' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 1931 2054 2550 2155; x_wconf 78' lang='lat' dir='ltr'><strong>MALORUM‚</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 929 2284 2049 2406; baseline -0.002 -20"><span class='ocrx_word' id='word_1_9' title='bbox 929 2286 1019 2386; x_wconf 90' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1051 2284 1146 2385; x_wconf 92' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_11' title='bbox 1258 2285 1334 2383; x_wconf 90' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_12' title='bbox 1372 2286 1458 2383; x_wconf 88' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_13' title='bbox 1496 2284 1590 2385; x_wconf 91' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_14' title='bbox 1634 2284 1718 2383; x_wconf 91' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_15' title='bbox 1758 2284 1850 2385; x_wconf 88' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_16' title='bbox 1889 2284 2049 2406; x_wconf 83' lang='lat' dir='ltr'>M,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1055 2523 2078 2612">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1055 2523 2078 2612">
+     <span class='ocr_line' id='line_1_4' title="bbox 1055 2523 2078 2612; baseline 0.007 -21"><span class='ocrx_word' id='word_1_17' title='bbox 1055 2524 1367 2591; x_wconf 83' lang='lat' dir='ltr'><strong>LIBER</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1436 2523 1904 2612; x_wconf 82' lang='lat' dir='ltr'><strong>QU1NTUs</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 2065 2588 2078 2599; x_wconf 90' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
